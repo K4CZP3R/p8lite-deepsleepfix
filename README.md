@@ -3,7 +3,7 @@
 This repo contains new lib's (Thanks @Haky86!) which are fixing Deep Sleep issue (on nougat) 
 ROMs (LineageOS and Resurrection Remix)
 
-Download: [AOSPA Tested!](https://github.com/K4CZP3R/p8lite-deepsleep/releases)  
+Download: [AOSPA Tested!](https://github.com/K4CZP3R/p8lite-deepsleepfix/releases)  
 
 Installation: Copy to sdcard and flash via twrp
 
