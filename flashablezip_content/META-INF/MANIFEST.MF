@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: tmp/dfmod
+SHA1-Digest: geNEaqUYH26VXyPVAk3Uj8qA8qo=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 18UX0qNEdFTn+L3FjVkGctf7Pk4=
+
+Name: tmp/misc
+SHA1-Digest: Etgjkd3ZgMWjJnuNQKg5BbrRPyU=
+
+Name: tmp/memory
+SHA1-Digest: 5eNN29bI0JY6+iUW7/WcWo4smAU=
+
+Name: tmp/vm
+SHA1-Digest: p73/3u3oUKlxEAe39xx/79C6/vY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: axDl92ZXEegGttqyIoQlXI9eT8I=
+
+Name: tmp/kiftweaks.sh
+SHA1-Digest: fnTjtIB7BPwijgS9EOgDh9ik/FM=
+
+Name: tmp/network
+SHA1-Digest: bO5kUklJnYiYj6gznEwHT0ZKwc4=
+
