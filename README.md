@@ -16,6 +16,9 @@ Here, screenshot while wifi were on:
 <details> 
   <summary>Screenshot (Click Me)</summary>
    <p> 
-	KernelAuditor - https://raw.githubusercontent.com/K4CZP3R/p8lite-deepsleepfix/master/screenshot.png
+	AOSPA[1] - https://raw.githubusercontent.com/K4CZP3R/p8lite-deepsleepfix/master/screenshots/1_aospa.png
+	AOSPA[2] - https://raw.githubusercontent.com/K4CZP3R/p8lite-deepsleepfix/master/screenshots/2_aospa.png
+	RROS[1] - https://raw.githubusercontent.com/K4CZP3R/p8lite-deepsleepfix/master/screenshots/1_rros.png
+	RROS[2] (Thanks @Crockodyle!) - https://raw.githubusercontent.com/K4CZP3R/p8lite-deepsleepfix/master/screenshots/%40Crockodyle_rros.png
 	</p>
 </details>
